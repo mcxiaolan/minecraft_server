@@ -1,9 +1,11 @@
 # 加入我们的 Minecraft BE 服务器
 欢迎你的到来，这台主机正放在我家里，配置如下
 
-    Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz
-	8.0 GB DDR3
-    0~7MB/s IPv6 address form Laibin, Guangxi, China
+    CPU: Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz
+    RAM: 8.0 GB DDR3
+    Network: IPv6 Only
+    Bandwitch: 100Mbps
+    Location: Laibin, Guangxi, China
 
 这个配置虽然不是很好，但我已经尽力了，毕竟还是个学生😞  
 采用 [LiteLoaderBDS](https://www.litebds.com) 作为服务器核心，在保证原版特性的同时增强安全。
