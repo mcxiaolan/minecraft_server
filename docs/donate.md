@@ -10,3 +10,4 @@
 | 昵称 | 金额 | 日期 |
 |:--:|:--:|:--:|
 | [Tony](https://blog.iamsjy.com) | ¥ 6 | 2023/08/03 |
+| [Abaing_](https://abaing.com) | ¥ 10 | 2023/08/10 |
