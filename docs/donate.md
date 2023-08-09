@@ -9,4 +9,4 @@
 
 | 昵称 | 金额 | 日期 |
 |:--:|:--:|:--:|
-| [Tony](https://blog.iamsjy.com) | 6 CNY | 2023/08/03 |
+| [Tony](https://blog.iamsjy.com) | ¥ 6 | 2023/08/03 |
