@@ -2,7 +2,7 @@
 Hi, 这里是目录，请过目~
 
 * [加入我们的 Minecraft BE 服务器](/play.md)
-* [支持我们的项目 (捐赠)](/donate.md)
+* [支持我们 (捐赠)](/donate.md)
 * [违反规则名单](/blacklist.md)
 
 ---
