@@ -1,4 +1,4 @@
-## 加入我们的 Minecraft BE 服务器
+# 加入我们的 Minecraft BE 服务器
 欢迎你的到来，这台主机正放在我家里，配置如下
 
     CPU: Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz
