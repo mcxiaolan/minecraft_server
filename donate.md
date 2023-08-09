@@ -1,6 +1,5 @@
 <head>
-<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/@waline/client@v2/dist/waline.css" />
 </head>
 
 # 支持我们的项目 (捐赠)
@@ -17,17 +16,21 @@
 |测试|14¥|2023/8/9|
 
 # 讨论
-<div id="gitalk-container">
-    <script>
-        var gitalk = new Gitalk({
-        clientID: 'IDcc29b6d3bc48878eca84',
-        clientSecret: 'ec2ae5df7abcdebd1418b6b5b36518f7f97da6e7',
-        repo: 'GitHub repo',
-        owner: 'mcxiaolan',
-        admin: ['mcxiaolan'],
-        id: location.pathname,      // Ensure uniqueness and length less than 50
-        distractionFreeMode: false  // Facebook-like distraction free mode
-    })
-    gitalk.render('gitalk-container')
-    </script>
-</div>
+
+<div id="waline"></div>
+  <script type="module">
+    import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';
+
+    init({
+      el: '#waline',
+      serverURL: 'https://waline.ltya.top',
+      pageview: false,
+      locale: {
+      placeholder: '请勿恶意发送评论，使用可收信的邮箱能获得回复哦~',
+      requiredMeta: ['nick','mail']
+    }
+      emoji: ['https://emoji.shojo.cn/bili/src/小黄脸']
+      search: false
+      imageUploader: false
+    });
+  </script>
