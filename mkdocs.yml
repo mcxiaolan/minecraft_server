@@ -1,0 +1,25 @@
+site_name: 岚天生存服
+theme:
+  name: material
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+
+repo_name: LanWo/minecraft_server
+repo_url: https://github.com/LanWo/minecraft_server
+edit_uri: https://github.com/LanWo/minecraft_server/edit/master/docs/

@@ -60,9 +60,9 @@ QQ 是我们活跃的社区，在这里可以与岚天呀和群友们即时对�
 
 # 其他
 
-* [📢 公告](/info.md)
-* [支持我们 (捐赠)](/donate.md)
-* [违反规则名单](/blacklist.md)
+* [📢 公告](./info.md)
+* [支持我们 (捐赠)](./donate.md)
+* [违反规则名单](./blacklist.md)
 
 ---
 <p align="right">
