@@ -1,6 +1,7 @@
 site_name: 岚天生存服
 theme:
   name: material
+  locale: zh
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
