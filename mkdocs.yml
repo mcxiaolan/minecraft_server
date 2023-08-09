@@ -20,6 +20,6 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
 
-repo_name: LanWo/minecraft_server
-repo_url: https://github.com/LanWo/minecraft_server
-edit_uri: https://github.com/LanWo/minecraft_server/edit/master/docs/
+repo_name: mcxiaolan/minecraft_server
+repo_url: https://github.com/mcxiaolan/minecraft_server
+edit_uri: https://github.com/mcxiaolan/minecraft_server/edit/master/docs/
