@@ -12,10 +12,10 @@
 
 !!! note "配置"
 
-    CPU: Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz
-    RAM: 8.0 GB DDR3
-    Network: IPv6 Only
-    Bandwitch: 100 Mbps
+    CPU: Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz  
+    RAM: 8.0 GB DDR3  
+    Network: IPv6 Only  
+    Bandwitch: 100 Mbps  
     Location: Laibin, Guangxi, China
 
 这个配置虽然不是很好，但我已经尽力了，毕竟还是个学生😞  
@@ -35,7 +35,7 @@
 - 窃取龙蛋
 - 损害他人利益
 
-*损害他人利益：包括但不限于窃取财产、破坏建筑和攻击性言论等，具体范围由我们根据情节决定。
+\* 损害他人利益：包括但不限于窃取财产、破坏建筑和攻击性言论等，具体范围由我们根据情节决定。
 
 若违反规则，我们将采取封禁措施并记录有关信息。  
 **我们保留收集必要信息和对规则的修改权利。**
