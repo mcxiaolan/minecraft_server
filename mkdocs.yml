@@ -29,3 +29,7 @@ edit_uri: https://github.com/mcxiaolan/minecraft_server/edit/master/docs/
 plugins:
   - search:
       lang: zh
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
