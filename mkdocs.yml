@@ -2,6 +2,10 @@ site_name: 岚天生存服
 theme:
   name: material
   locale: zh
+  language: zh
+  icon:
+    logo: :fa-solid-house:
+  favicon: https://gravatar.ltya.top/avatar/cfa9b1fee802d753a328f05890aa39c630a6114e2d7ea230f728b1fccc972b74?s=500
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
@@ -24,3 +28,6 @@ theme:
 repo_name: mcxiaolan/minecraft_server
 repo_url: https://github.com/mcxiaolan/minecraft_server
 edit_uri: https://github.com/mcxiaolan/minecraft_server/edit/master/docs/
+plugins:
+  - search
+    lang: zh
