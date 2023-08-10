@@ -30,20 +30,10 @@
 **我们保留收集必要信息和对规则的修改权利。**
 
 ## 加入
-QQ 是我们活跃的社区，在这里可以与岚天呀和群友们即时对话。
+我们的 QQ 群：**735517229**，欢迎来玩~
 
-> 我们的 QQ 群号：735517229
-
-加入后，@群主，发送你的玩家代号，等待记录后方可获得白名单。
-
-*请辨认群主 QID: MCxiaolan
-
----
-
-没有 QQ ？请通过以下方式联系我：
-
-- 通过 Bilibili 私信我: [岚天呀](https://space.bilibili.com/355877984?from=search) (recommend)
-- E-mail me: 3152293832#qq.com ( # = @ )
+请填写以下表格获取白名单：  
+[https://forms.office.com/r/Mu3GeTcka1](https://forms.office.com/r/Mu3GeTcka1)
 
 ## 其他
 
