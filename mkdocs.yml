@@ -3,8 +3,6 @@ theme:
   name: material
   locale: zh
   language: zh
-    icon:
-      logo: ":fa-solid-house:"
   favicon: https://gravatar.ltya.top/avatar/cfa9b1fee802d753a328f05890aa39c630a6114e2d7ea230f728b1fccc972b74?s=500
   palette:
     # Light mode
