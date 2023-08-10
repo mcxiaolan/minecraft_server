@@ -10,7 +10,7 @@
 ## 配置
 欢迎你的到来，这台主机正放在我家里。
 
-!!! info "配置"
+!!! note "配置"
 
     CPU: Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz
     RAM: 8.0 GB DDR3
