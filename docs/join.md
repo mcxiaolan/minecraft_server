@@ -14,8 +14,9 @@
 
     CPU: Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz  
     RAM: 8.0 GB DDR3  
-    Network: NAT IPv4 & IPv6
-    Bandwitch: 100 Mbps
+    Network: NAT IPv4 & IPv6  
+    Bandwidth (IPv4) : sq 36 Mibps + as 20 Mbps  
+    Bandwitch (IPv6) : 100 Mbps
 
 这个配置虽然不是很好，但我已经尽力了，毕竟还是个学生😞  
 采用 [LiteLoaderBDS](https://www.litebds.com) 作为服务器核心，在保证原版特性的同时增强安全。
