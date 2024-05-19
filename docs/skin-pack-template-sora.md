@@ -58,5 +58,5 @@ QQ群: **735517229**
     - [NameMC](https://namemc.com)
   - `中国`
     - [LittleSkin](https://littleskin.cn/skinlib/)
-- [JSON语法](www.json.cn)
-- [中文Minecraft Wiki](zh.minecraft.wiki)
+- [JSON语法](https://www.json.cn)
+- [中文Minecraft Wiki](https://zh.minecraft.wiki)
