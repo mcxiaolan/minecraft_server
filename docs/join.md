@@ -11,7 +11,7 @@
     CPU: Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz  
     RAM: 8.0 GB DDR3  
     Network: NAT IPv4 & IPv6  
-    Bandwidth (IPv4) : Coming soon…
+    Bandwidth (IPv4) : Coming soon…  
     Bandwitch (IPv6) : 100 Mbps
 
 这个配置虽然不是很好，但我已经尽力了，毕竟还是个学生😞  
