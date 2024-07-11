@@ -8,12 +8,14 @@
     CPU: Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz  
     RAM: 8.0 GB DDR3  
     Network: NAT IPv4 & IPv6  
-    Bandwidth (IPv4) : Coming soon…  
+    Bandwidth (IPv4) : Natfrp 湖南长沙白银 VIP 节点  
     Bandwitch (IPv6) : 80 Mbps
   
 采用 [LeviLamina](https://levilamina.liteldev.com/zh/) 作为服务器核心，在保证原版特性的同时增强安全。
 
 目前服务器支持的游戏版本为 `1.21.1x`
+
+## 
 
 ## 规则
 我们禁止以下行为：
@@ -22,13 +24,13 @@
 - 修改游戏数据（使用辅助程序等）
 - 使用不合理的资源包（矿物透视等）
 - 制造会使服务器资源过载的建筑
-- 速通、窃取龙蛋
+- 窃取龙蛋
 - 损害他人利益
 
 \* 损害他人利益：包括但不限于窃取财产、破坏建筑和攻击性言论等，具体范围由我们根据情节决定。
 
 <p align="right">
-    于 2024/7/8 重新修改。
+    于 2024/7/11 重新修改。
 </p>
 
 ***
@@ -37,8 +39,9 @@
 **我们保留收集必要信息和对规则的修改权利。**
 
 ## 加入
-请填写以下表格获取白名单：  
-[https://forms.office.com/r/7YZxKBwpdP](https://forms.office.com/r/7YZxKBwpdP)
+已舍弃 Microsoft Forms.  
+请加入 QQ 群: 735517229  
+按照群昵称相关格式进行修改昵称，然后@在线管理人员。
 
 ## 其他
 
